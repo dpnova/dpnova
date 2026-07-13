@@ -1,5 +1,3 @@
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpnova)](https://github.com/anuraghazra/github-readme-stats)
-
 # Github Roaster
 
 [dpnova 06/08/2024](https://github-roast.pages.dev/share/dpnova?lang=english)
